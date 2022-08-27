@@ -24,6 +24,12 @@ button {
     background: blueviolet;
 }
 
+.close:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+  }
+
 ul{
     text-align: center;
 }
