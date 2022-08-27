@@ -1,0 +1,33 @@
+ul li:hover {
+    background: greenyellow;
+  }
+
+ul li.checked {
+    text-decoration: line-through;
+    background: greenyellow;
+}
+
+h1{
+    text-align: center;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+
+h2{
+    text-align: center;
+    padding-right: 15px;
+    padding-top: 0px;
+}
+
+button {
+    color: white;
+    background: blueviolet;
+}
+
+ul{
+    text-align: center;
+}
+
+.two {
+    margin-top: -65px;
+}
